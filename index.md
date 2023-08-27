@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+# Ayusha Patra's First CS193 Homework
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Favorite Things About CS193
 
-### Markdown
+- Learning about Git and Github
+- **No Exams!**
+- _friendly instructors and TAs_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgetwallpapers.com%2Fcollection%2Fcoding-wallpapers-hd&psig=AOvVaw3cAO7dDjHUxxS_Pt4h8S_t&ust=1693196258590000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCOCX7939-4ADFQAAAAAdAAAAABAQ)
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +27,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
